@@ -9,7 +9,12 @@ To go back to previous document, [click here](/README.md).
 - Did some tasks, see [here](/List_practice/)
 
 **Day two**
-- Started a git repo.
 - Documented current progress.
 - Started with chapter 5.
 - Did some tasks, and made some test conditions. [HERE](/Condition_testing/)
+
+**Day three**
+
+- Started a git repository.
+- Completed chapter 5.
+- Did a few tasks from chapter 5.
