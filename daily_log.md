@@ -18,3 +18,7 @@ To go back to previous document, [click here](/README.md).
 - Started a git repository.
 - Completed chapter 5.
 - Did a few tasks from chapter 5.
+
+**Day four**
+
+- Did a few task from chapter 6.
