@@ -22,3 +22,8 @@ To go back to previous document, [click here](/README.md).
 **Day four**
 
 - Did a few task from chapter 6.
+
+
+**Day five**
+
+- Completed chapter 6.
