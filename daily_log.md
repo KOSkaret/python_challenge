@@ -27,3 +27,7 @@ To go back to previous document, [click here](/README.md).
 **Day five**
 
 - Completed chapter 6.
+
+**Day six**
+
+- Skipped today, because of exhaustion from a 6 day work week.
