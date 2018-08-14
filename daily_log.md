@@ -31,3 +31,11 @@ To go back to previous document, [click here](/README.md).
 **Day six**
 
 - Skipped today, because of exhaustion from a 6 day work week.
+
+**Day seven**
+
+- Worked a little on chapter 7.
+
+**Day eight**
+
+- Completed chapter 7.
