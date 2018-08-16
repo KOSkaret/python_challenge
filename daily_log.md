@@ -43,3 +43,7 @@ To go back to previous document, [click here](/README.md).
 **Day nine**
 
 - Started on chapter 8, halfway through.
+
+**Day ten**
+
+- Continued chapter 8, almost there.
