@@ -51,3 +51,7 @@ To go back to previous document, [click here](/README.md).
 **Day eleven**
 
 - Completed chapter 8! Will start chapter 9 tomorrow.
+
+**Day twelve**
+
+- Half-way through chapter 9.
