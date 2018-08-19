@@ -25,31 +25,21 @@ class Restaurant():
         else:
             self.number_served += served
 
-my_restaurant = Restaurant("bella","kebab")
 
-print(my_restaurant.restaurant_name)
-print(my_restaurant.cuisine_type)
-my_restaurant.describe_restaurant()
-my_restaurant.open_restaurant()
+class IceCreamStand(Restaurant):
+    """Represent the aspect of an restaurant, which are an ice
+    cream stand"""
 
-print("")
-print("")
-print("Second task")
-# task 9-2
-r1 = Restaurant("Pizzaria", "pizza")
-r2 = Restaurant("Taco bell", 'taco')
-r3 = Restaurant("McDonalds","burgers")
+    def __init__(self, restaurant_name, cuisine_type):
+        """Initialise attributes of parent class"""
+        super().__init__(restaurant_name, cuisine_type)
+        self.flavors = []
 
-r1.describe_restaurant()
-r2.describe_restaurant()
-r3.describe_restaurant()
+    def add_flavors(self,flavor):
+        self.flavors.append(flavor)
+        print("The " + flavor + " was added to flavors")
 
-#Task 9-4
-print("")
-print("")
-print("Third task")
-print(r3.number_served)
-r3.set_number_served(29)
-print(r3.number_served)
-r3.increment_numer_served(10)
-print(r3.number_served)
+    def show_flavors(self):
+        print("\nWe have these flavors available:")
+        for flavor in self.flavors:
+            print(flavor)

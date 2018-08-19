@@ -55,3 +55,7 @@ To go back to previous document, [click here](/README.md).
 **Day twelve**
 
 - Half-way through chapter 9.
+
+**Day thirteen**
+
+- Finished with chapter 9. Partially started on chapter 10.
