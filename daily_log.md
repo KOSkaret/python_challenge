@@ -59,3 +59,7 @@ To go back to previous document, [click here](/README.md).
 **Day thirteen**
 
 - Finished with chapter 9. Partially started on chapter 10.
+
+**Day fourteen**
+
+- Made a skip. Other tasks occupied the day.
