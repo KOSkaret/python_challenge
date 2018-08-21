@@ -63,3 +63,8 @@ To go back to previous document, [click here](/README.md).
 **Day fourteen**
 
 - Made a skip. Other tasks occupied the day.
+
+**Day fifteen**
+
+- Back on track
+- Made progress through chapter 10 up til exceptions.

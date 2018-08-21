@@ -1,0 +1,4 @@
+In Python you can work with data in a larger capaciy
+In Python you can model real life objects in the form of data
+In Python you can make programs that is helpful for you
+In Python you can make your own terminal programs for your own use
