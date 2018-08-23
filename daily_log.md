@@ -30,7 +30,7 @@ To go back to previous document, [click here](/README.md).
 
 ### Day six
 
-- Skipped to### Day, because of exhaustion from a 6 ### Day work week.
+- Skipped to day, because of exhaustion from a 6 ### Day work week.
 
 ### Day seven
 
@@ -75,3 +75,8 @@ To go back to previous document, [click here](/README.md).
 
 **Thoughts:** When I have gone through the basic functions of python, so am I not sure what project to start with.
 My thoughts are leaning more towards the web development front.
+
+### Day seventeen
+
+- Worked through testing of single functions in chapter 11.
+- Will end todays work with this, and continue with testing classes tomorrow.
