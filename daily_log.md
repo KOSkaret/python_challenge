@@ -80,3 +80,8 @@ My thoughts are leaning more towards the web development front.
 
 - Worked through testing of single functions in chapter 11.
 - Will end todays work with this, and continue with testing classes tomorrow.
+
+### Day eighteen
+
+- Have completed chapter 11, which focused on testing.
+- Will start with the web project in the PCC.
