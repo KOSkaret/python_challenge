@@ -85,3 +85,13 @@ My thoughts are leaning more towards the web development front.
 
 - Have completed chapter 11, which focused on testing.
 - Will start with the web project in the PCC.
+
+## Day nineteen
+
+- Started with the django project.
+- The project will be saved in a different folder than this one.
+- Will probably not upload that one to github.
+
+## Day twenty
+
+- Continued the work with the django project.
