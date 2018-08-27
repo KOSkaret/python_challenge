@@ -95,3 +95,7 @@ My thoughts are leaning more towards the web development front.
 ## Day twenty
 
 - Continued the work with the django project.
+
+## Day twentyone
+
+- Did 18-4 task from the python crash course.

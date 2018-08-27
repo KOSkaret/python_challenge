@@ -17,17 +17,47 @@ To deactivate, write 'deactivate'
 
 When you have activated the virtual env, write this command to install django:
 
+'''bash
 pip3 install Django
-
+'''
 This will make us run django only under this virtual enviroment.
 
 To create a django project, so will we write this:
 
+'''bash
 django-admin.py startproject learning_log .
+'''
 
 Remember, the . after log is for marking CURRENT directory.
 
 To make a database for our project:
 
+'''bash
 python3 manage.py migrate
+'''
 
+To start an app, we can write this:
+
+'''bash
+python3 manage.py startapp learning_logs
+'''
+
+While in the virtual env.
+
+If we have made some changes to the models, we run:
+
+'''bash
+python3 manage.py makemigrations learning_logs
+'''
+
+and then migrate/update(?)
+
+'''bash
+python3 manage.py migrate
+'''
+
+We can then view the project by running this terminal command:
+
+'''python 
+python3 manage.py runserver
+'''
