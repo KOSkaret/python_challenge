@@ -99,3 +99,9 @@ My thoughts are leaning more towards the web development front.
 ## Day twentyone
 
 - Did 18-4 task from the python crash course.
+
+### Day twentytwo
+
+- Continued with how to make a page in django, and did 18-6.
+
+**thought:** Progress may slow down because of external factors. May consider a day off to clear my thoughts.
