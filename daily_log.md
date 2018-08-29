@@ -105,3 +105,7 @@ My thoughts are leaning more towards the web development front.
 - Continued with how to make a page in django, and did 18-6.
 
 **thought:** Progress may slow down because of external factors. May consider a day off to clear my thoughts.
+
+### Day twentythree
+
+- Read through and did the examples from chapter 18. Will tomorrow do task 18-8, and then continue on chapter 19.
