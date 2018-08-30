@@ -109,3 +109,10 @@ My thoughts are leaning more towards the web development front.
 ### Day twentythree
 
 - Read through and did the examples from chapter 18. Will tomorrow do task 18-8, and then continue on chapter 19.
+
+### Day twentyfour
+
+- Completed task 18-8.
+
+**thought:** During task 18-8, so did I hit on a mistake of my part when I tried to make a page dedicated to each pizza with their toppings. This was very helpful to understand how the view functions worked in corelation to the references from the html templates.
+This will be very helpful when continue my work tomorrow.
