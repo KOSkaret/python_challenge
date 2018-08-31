@@ -116,3 +116,7 @@ My thoughts are leaning more towards the web development front.
 
 **thought:** During task 18-8, so did I hit on a mistake of my part when I tried to make a page dedicated to each pizza with their toppings. This was very helpful to understand how the view functions worked in corelation to the references from the html templates.
 This will be very helpful when continue my work tomorrow.
+
+### Day twentyfive
+
+- Worked partly through chapter 19. Have come to the part where an user will edit an entry.
