@@ -120,3 +120,16 @@ This will be very helpful when continue my work tomorrow.
 ### Day twentyfive
 
 - Worked partly through chapter 19. Have come to the part where an user will edit an entry.
+
+### Day twentysix and twentyseven.
+
+- Made an project for blog, where I made it possible to create new blog entries/post and edit said post.
+- Will start with users tomorrow.
+
+### Day twentyeight
+
+- Continued in PCC, made login, logout and registration pages. Will tomorrow continue with task 19-2.
+
+### Day twentyninge
+
+- Completed task 19-2.
