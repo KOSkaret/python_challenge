@@ -130,6 +130,11 @@ This will be very helpful when continue my work tomorrow.
 
 - Continued in PCC, made login, logout and registration pages. Will tomorrow continue with task 19-2.
 
-### Day twentyninge
+### Day twentynine
 
 - Completed task 19-2.
+
+### Day thirty
+
+- Learned more about restricting access and protect the different pages in learning logs.
+- Will tomorrow continue with the different tasks(19-4 and 19-5)
