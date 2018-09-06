@@ -138,3 +138,8 @@ This will be very helpful when continue my work tomorrow.
 
 - Learned more about restricting access and protect the different pages in learning logs.
 - Will tomorrow continue with the different tasks(19-4 and 19-5)
+
+### Day thirty one.
+
+- Completed the tasks mentioned yesterday. Have completed chapter 20.
+- Tomorrow, so will I start with chapter 20 with style.
